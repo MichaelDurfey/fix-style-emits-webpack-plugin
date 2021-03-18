@@ -1,12 +1,12 @@
 {
-  "name": "@paypalcorp/FixstyleEmitsWebpackPlugin",
+  "name": "fix-style-emits-webpack-plugin",
   "version": "1.0.3",
   "description": "Plugin to fix an issue with style JS file emits when using mini-css-extract-plugin or splitting styles using splitChunks optimization feature in Webpack 4",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.paypal.com:mdurfey/FixStyleEmitsWebpackPlugin.git"
+    "url": "https://github.com/MichaelDurfey/fix-style-emits-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
